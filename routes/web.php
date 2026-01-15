@@ -19,7 +19,8 @@ use Illuminate\Support\Facades\Route;
 
 
 // main pages
-Route::get('/', [MainHomeController::class, 'home'])->name('home');
+Route::get('/', [MainHomeController::class, 'comming_soon'])->name('comming-soon');
+Route::get('/old-home', [MainHomeController::class, 'home'])->name('home');
 Route::get('/about-us', [MainHomeController::class, 'about_us'])->name('about-us-KMA');
 Route::get('/contact-us', [MainHomeController::class, 'contact_us'])->name('contact-us-KMA');
 Route::get('/media', [MainHomeController::class, 'media'])->name('media-KMA');

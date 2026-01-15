@@ -14,6 +14,11 @@ class MainHomeController extends Controller
         return view('main_home');
     }
 
+    public function comming_soon(Request $request)
+    {
+        return view('comming-soon');
+    }
+
     public function about_us(Request $request)
     {
         return view('about-us');
