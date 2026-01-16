@@ -2,7 +2,7 @@
 
 @section('title', 'Contact us | KMA medial store UAE')
 
-@section('meta_description', 'Explore detailed information Contact our product, including category, size, description, ingredients, and key features. Perfect for understanding what makes this product unique and suitable for your needs.')
+@section('meta_description', '')
 
 @section('content')
 
@@ -16,7 +16,7 @@
                     <!-- Section Title -->
                     <div class="container section-title" data-aos="fade-up">
                         <h2>Contact Us<br></h2>
-                        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                        <p>Let’s work together to support healthcare delivery across the UAE.</p>
                     </div><!-- End Section Title -->
 
                 </div>

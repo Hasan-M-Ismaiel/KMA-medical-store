@@ -16,7 +16,7 @@
                     <!-- Section Title -->
                     <div class="container section-title" data-aos="fade-up">
                         <h2>Gallery</h2>
-                        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                        <p>Explore highlights from KMA.care’s conferences, and professional activities. Browse our photos and videos showcasing our commitment to healthcare excellence</p>
                     </div><!-- End Section Title -->
 
                 </div>

@@ -5,7 +5,7 @@
 
         <div class="row gy-4">
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="stats-item d-flex align-items-center w-100 h-100">
                     <i class="fas fa-user-md flex-shrink-0"></i>
                     <div>
@@ -15,27 +15,27 @@
                 </div>
             </div><!-- End Stats Item -->
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="stats-item d-flex align-items-center w-100 h-100">
                     <i class="far fa-hospital flex-shrink-0"></i>
                     <div>
-                        <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Departments</p>
+                        <span data-purecounter-start="0" data-purecounter-end="3" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Hospitals</p>
                     </div>
                 </div>
             </div><!-- End Stats Item -->
 
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="stats-item d-flex align-items-center w-100 h-100">
                     <i class="fas fa-flask flex-shrink-0"></i>
                     <div>
                         <span data-purecounter-start="0" data-purecounter-end="8" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Research Labs</p>
+                        <p>Medical Center</p>
                     </div>
                 </div>
             </div><!-- End Stats Item -->
 
-            <div class="col-lg-3 col-md-6">
+            <!-- <div class="col-lg-3 col-md-6">
                 <div class="stats-item d-flex align-items-center w-100 h-100">
                     <i class="fas fa-award flex-shrink-0"></i>
                     <div>
@@ -43,7 +43,8 @@
                         <p>Awards</p>
                     </div>
                 </div>
-            </div><!-- End Stats Item -->
+            </div> -->
+            <!-- End Stats Item -->
 
         </div>
 

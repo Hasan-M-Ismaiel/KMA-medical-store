@@ -4,7 +4,7 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
         <h2>Contact</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Let’s work together to support healthcare delivery across the UAE.</p>
     </div><!-- End Section Title -->
 
     <div class="mb-5" data-aos="fade-up" data-aos-delay="200">

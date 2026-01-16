@@ -8,32 +8,32 @@
             <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
                 <div class="service-item position-relative">
                     <div class="icon"><i class="fas fa-heartbeat icon"></i></div>
-                    <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-                    <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                    <h4><a href="" class="stretched-link">Quality and Safety</a></h4>
+                    <p>We ensure consistent product quality and safety through approved sourcing, controlled storage, and strict handling procedures</p>
                 </div>
             </div><!-- End Service Item -->
 
             <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
                 <div class="service-item position-relative">
                     <div class="icon"><i class="fas fa-pills icon"></i></div>
-                    <h4><a href="" class="stretched-link">Sed ut perspici</a></h4>
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                    <h4><a href="" class="stretched-link">Regulatory Compliance</a></h4>
+                    <p>All operations fully comply with UAE pharmaceutical regulations and applicable international medical standards.</p>
                 </div>
             </div><!-- End Service Item -->
 
             <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
                 <div class="service-item position-relative">
                     <div class="icon"><i class="fas fa-thermometer icon"></i></div>
-                    <h4><a href="" class="stretched-link">Magni Dolores</a></h4>
-                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                    <h4><a href="" class="stretched-link">Transparency and Trust</a></h4>
+                    <p>We build lasting partnerships through clear communication, ethical practices, and reliable, accountable business operations.</p>
                 </div>
             </div><!-- End Service Item -->
 
             <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
                 <div class="service-item position-relative">
                     <div class="icon"><i class="fas fa-dna icon"></i></div>
-                    <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                    <h4><a href="" class="stretched-link">Professional Service</a></h4>
+                    <p>Our team delivers responsive, knowledgeable, and dependable service tailored to healthcare providers’ needs</p>
                 </div>
             </div><!-- End Service Item -->
 

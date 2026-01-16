@@ -4,7 +4,7 @@
      <!-- Section Title -->
      <div class="container section-title" data-aos="fade-up">
          <h2>About Us<br></h2>
-         <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+         <p>support healthcare providers with safe, timely, and compliant access to pharmaceutical products sourced from approved international partners</p>
      </div><!-- End Section Title -->
 
      <div class="container">
@@ -15,19 +15,23 @@
                  <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a>
              </div>
              <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
-                 <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                 <h3>A Trusted Partner in Medical Supply</h3>
                  <p class="fst-italic">
-                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                     magna aliqua.
+                     KMA.care operates under strict UAE government regulations and holds strong licensing for pharmaceutical import and distribution.
+                     With a focused leadership team and a dedicated operational network, we provide dependable medical supply solutions tailored to the needs of hospitals, clinics, and healthcare professionals.
+                 </p>
+                 <p>
+                     <strong> Why Choose KMA.care </strong>
                  </p>
                  <ul>
-                     <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                     <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                     <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                     <li><i class="bi bi-check2-all"></i> <span>Fully licensed and regulated in the UAE.</span></li>
+                     <li><i class="bi bi-check2-all"></i> <span>Compliance with pharmaceutical storage and distribution standards.</span></li>
+                     <li><i class="bi bi-check2-all"></i> <span>Flexible, demand-based sourcing.</span></li>
+                     <li><i class="bi bi-check2-all"></i> <span>Reliable logistics and responsive service.</span></li>
+                     <li><i class="bi bi-check2-all"></i> <span>Reliable logistics and responsive service.</span></li>
                  </ul>
                  <p>
-                     Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                     velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+                    Key Medical Aid (KMA.care) is a UAE-licensed medical store specializing in pharmaceutical import, storage, and distribution
                  </p>
              </div>
          </div>

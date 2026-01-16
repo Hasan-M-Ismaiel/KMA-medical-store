@@ -4,7 +4,7 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
         <h2>BE OUR PARTNER</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>If you are interested in becoming part of our growing partner network, we invite you to submit your details through our partnership form. Our team will review your information and contact you to explore potential collaboration opportunities.</p>
     </div><!-- End Section Title -->
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">

@@ -37,7 +37,7 @@
 <!-- End tabs_sections Area -->
 
 <!-- Start testamonials Area -->
-@include('includes.testamonials')
+<!-- include('includes.testamonials') -->
 <!-- End testamonials Area -->
 
 <!-- Start gallery_section Area -->
@@ -47,7 +47,7 @@
 <!-- End pricing_section Area -->
 
 <!-- Start faq_section Area -->
-@include('includes.faq_section')
+<!-- include('includes.faq_section') -->
 <!-- End faq_section Area -->
 
 <!-- Start contact_us Area -->

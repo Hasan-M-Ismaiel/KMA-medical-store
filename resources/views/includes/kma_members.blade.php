@@ -4,7 +4,7 @@
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
                 <h2>KMA members</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                <p>KMA.care is led by a focused management team and supported by a dedicated group of professionals committed to quality, compliance, and reliable healthcare service delivery.</p>
             </div><!-- End Section Title -->
 
             <div class="container">
