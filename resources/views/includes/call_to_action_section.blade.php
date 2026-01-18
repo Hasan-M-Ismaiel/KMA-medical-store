@@ -9,7 +9,7 @@
                      <p>KMA.care collaborates with certified pharmaceutical manufacturers, suppliers, and service providers who share our commitment to quality, compliance, and reliability.
 
                          If you are interested in becoming part of our growing partner network, we invite you to submit your details through our partnership form. Our team will review your information and contact you to explore potential collaboration opportunities.</p>
-                     <a class="cta-btn" href="#appointment">Apply to Become a Partner</a>
+                     <a class="cta-btn" href="#contact">Contact us</a>
                  </div>
              </div>
          </div>

@@ -12,7 +12,7 @@
             height: 100vh;
             font-family: 'Roboto', sans-serif;
             background-color: #ffffff;
-            color: #3a7e9f;
+            color: #365375;
             text-align: center;
             flex-direction: column; /* لتكديس العناصر عموديًا */
         }

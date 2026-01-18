@@ -25,7 +25,7 @@
                     <li><a href="{{ route('home') }}" class="active">Home</a></li>
                     <li><a href="{{ route('about-us-KMA') }}">About</a></li>
                     <!-- <li><a href="#services">Services</a></li> -->
-                    <li><a href="{{ route('media-KMA') }}">Media</a></li>
+                    <!-- <li><a href="('media-KMA')">Media</a></li> -->
                     <!-- <li><a href="#departments">Departments</a></li> -->
                     <li class="dropdown"><a href="#"><span>Products</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
@@ -50,7 +50,7 @@
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-            <a class="cta-btn" href="{{ route('home') }}#appointment">Be Our Partner</a>
+            <!-- <a class="cta-btn" href="{{ route('home') }}#appointment">Be Our Partner</a> -->
 
         </div>
 

@@ -30,7 +30,7 @@
 <!-- End services Area -->
 
 <!-- Start appointment_sections Area -->
-@include('includes.appointment_section')
+<!-- include('includes.appointment_section') -->
 <!-- End appointment_sections Area -->
 
 <!-- Start tabs_sections Area -->
