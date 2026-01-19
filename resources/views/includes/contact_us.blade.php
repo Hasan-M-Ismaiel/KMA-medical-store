@@ -66,7 +66,7 @@
                     <div class="row gy-4">
 
                         <div class="col-md-6">
-                            <input type="text" name="name" class="form-control" placeholder="Your Name" required>
+                            <input type="text" name="full_name" class="form-control" placeholder="Your Name" required>
                         </div>
 
                         <div class="col-md-6 ">
