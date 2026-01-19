@@ -13,32 +13,32 @@
                 <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
                     <i class="fa-solid fa-hand-holding-medical flex-shrink-0"></i>
                     <div>
-                        <h4><a href="" class="stretched-link">Hospitals and Medical Centers</a></h4>
-                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                        <h4><a href="" class="stretched-link">Pharmaceutical Manufacturers</a></h4>
+                        <p>We support certified pharmaceutical manufacturers with reliable distribution, regulatory alignment, and strong market presence across the UAE.</p>
                     </div>
                 </div><!-- End Icon Box -->
 
                 <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
                     <i class="fa-solid fa-suitcase-medical flex-shrink-0"></i>
                     <div>
-                        <h4><a href="" class="stretched-link">Clinics and Specialized Practices</a></h4>
-                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                        <h4><a href="" class="stretched-link">Pharmaceutical Suppliers</a></h4>
+                        <p>We work with trusted pharmaceutical suppliers to ensure efficient sourcing, compliance, and consistent product availability</p>
                     </div>
                 </div><!-- End Icon Box -->
 
                 <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="500">
                     <i class="fa-solid fa-staff-snake flex-shrink-0"></i>
                     <div>
-                        <h4><a href="" class="stretched-link">Doctors and Healthcare Professionals</a></h4>
-                        <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+                        <h4><a href="" class="stretched-link">Healthcare & Service Providers</a></h4>
+                        <p>We assist healthcare providers by delivering approved products, dependable logistics, and continuity-focused distribution solutions</p>
                     </div>
                 </div><!-- End Icon Box -->
 
                 <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="600">
                     <i class="fa-solid fa-lungs flex-shrink-0"></i>
                     <div>
-                        <h4><a href="" class="stretched-link">Government and Private Healthcare Institutions</a></h4>
-                        <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet. Et eligendi</p>
+                        <h4><a href="" class="stretched-link">Beauty & Aesthetic Clinics</a></h4>
+                        <p>We supply beauty and aesthetic clinics with compliant medical products that support safe, professional aesthetic treatments.</p>
                     </div>
                 </div><!-- End Icon Box -->
 

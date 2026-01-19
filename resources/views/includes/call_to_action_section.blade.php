@@ -5,11 +5,14 @@
          <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
              <div class="col-xl-10">
                  <div class="text-center">
-                     <h3>Partner with a Trusted Pharmaceutical Distributor in the UAE</h3>
-                     <p>KMA.care collaborates with certified pharmaceutical manufacturers, suppliers, and service providers who share our commitment to quality, compliance, and reliability.
+                     <h3>Working with a Trusted Pharmaceutical Distributor in the UAE</h3>
+                     <p>
+                         KMA.care operates in collaboration with a wide network of certified pharmaceutical manufacturers, suppliers, healthcare entities, and service providers, all aligned with our commitment to quality, compliance, and reliability.
 
-                         If you are interested in becoming part of our growing partner network, we invite you to submit your details through our partnership form. Our team will review your information and contact you to explore potential collaboration opportunities.</p>
+                         Whether you are seeking distribution support, exploring collaboration opportunities, or looking to learn more about our services, we welcome you to connect with us. Our team is always available to provide information and discuss how we can work together to support healthcare excellence.
+                     </p>
                      <a class="cta-btn" href="#contact">Contact us</a>
+
                  </div>
              </div>
          </div>

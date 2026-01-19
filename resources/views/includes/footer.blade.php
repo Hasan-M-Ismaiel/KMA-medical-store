@@ -7,16 +7,16 @@
                     <span class="sitename">KMA medical store</span>
                 </a>
                 <div class="footer-contact pt-3">
-                    <p>A108 Adam Street</p>
-                    <p>United Arab Emarati, NY 535022</p>
-                    <p class="mt-3"><strong>Phone:</strong> <span>+971 9999 99 999</span></p>
+                    <p>Al Zahya</p>
+                    <p>Ajman - United Arab Emirates</p>
+                    <p class="mt-3"><strong>Phone:</strong> <span>+971 67666978</span></p>
                     <p><strong>Email:</strong> <span>info@kma.care</span></p>
                 </div>
                 <div class="social-links d-flex mt-4">
-                    <a href=""><i class="bi bi-twitter-x"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
+                    <!-- <a href="#"><i class="bi bi-twitter-x"></i></a> -->
+                    <!-- <a href="#"><i class="bi bi-facebook"></i></a> -->
+                    <a href="#"><i class="bi bi-instagram"></i></a>
+                    <a href="#"><i class="bi bi-linkedin"></i></a>
                 </div>
             </div>
 

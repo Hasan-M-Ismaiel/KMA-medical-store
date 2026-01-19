@@ -6,8 +6,8 @@
         <div class="carousel-item active">
             <img src="assets/img/hero-carousel/hero-carousel-1.jpg" alt="">
             <div class="container">
-                <h2>Reliable Pharmaceutical Import, Storage & Distribution in the UAE</h2>
-                <p>KMA.care | Key Medical Aid is a licensed medical store specializing in the import, storage, and distribution of pharmaceutical products.
+                <h2>Reliable Pharmaceutical Import, Storage, Export & Distribution in the UAE</h2>
+                <p>KMA.care | Key Medical Aid is a licensed medical store specializing in the import, storage, export and distribution of pharmaceutical products.
                     We work with trusted international manufacturers and partners to supply healthcare providers across the UAE, ensuring full regulatory compliance, quality assurance, and reliable service.</p>
                 <a href="#about" class="btn-get-started">Read More</a>
             </div>
