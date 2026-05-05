@@ -37,17 +37,15 @@ Route::get('/blog/{slug}', [PostController::class, 'show'])->name('blog.show');
 // contect us data
 Route::post('/storeContact', [StoreController::class, 'storeContact'])->name('storeContact');
 
-
 Route::get('/contact', function () {
     $vcf = "BEGIN:VCARD
 VERSION:3.0
-N:Mazen;Abo Assaf
-FN:Mazen Abo Assaf
-ORG:KMA
-TITLE:Sales Manager
-TEL;TYPE=CELL:+971501930339
-EMAIL:mazen.assaf@kma.care
-URL:https://kma.care
+N:Ali;Ahmad
+FN:Ali Ahmad
+ORG:Your Company
+TITLE:Developer
+TEL:+41790000000
+EMAIL:ali@yourdomain.com
 END:VCARD";
 
     return response($vcf, 200)
