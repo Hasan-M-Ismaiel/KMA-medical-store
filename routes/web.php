@@ -50,5 +50,5 @@ END:VCARD";
 
     return response($vcf, 200)
         ->header('Content-Type', 'text/vcard')
-        ->header('Content-Disposition', 'inline; filename=\"contact.vcf\"');
+        ->header('Content-Disposition', 'inline');
 });
