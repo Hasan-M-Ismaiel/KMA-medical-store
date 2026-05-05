@@ -40,12 +40,13 @@ Route::post('/storeContact', [StoreController::class, 'storeContact'])->name('st
 Route::get('/contact', function () {
     $vcf = "BEGIN:VCARD
 VERSION:3.0
-N:Ali;Ahmad
-FN:Ali Ahmad
-ORG:Your Company
-TITLE:Developer
-TEL:+41790000000
-EMAIL:ali@yourdomain.com
+N:Mazen;Abo Assaf
+FN:Mazen Abo Assaf
+ORG:KMA
+TITLE:Sales Manager
+TEL;TYPE=CELL:+971501930339
+EMAIL:mazen.assaf@kma.care
+URL:https://kma.care
 END:VCARD";
 
     return response($vcf, 200)
